@@ -50,6 +50,8 @@ The CONSUMER_KEY and CONSUMER_SECRET can be obtained by registering the app at h
 Dependencies
 ============
 botomatic requires Tweepy
+install pip:
+sudo easy_install pip
 ```
 pip install Tweepy
 ```
